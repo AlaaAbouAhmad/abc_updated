@@ -2,7 +2,7 @@
 
 An updated version of the native python abc (abstract base class) module.
 
-The module adds a new decorator to the native abc module.
+This module adds a new decorator to the native abc module.
 The new decorator is called "@abstractattribute", and it converts
 its input into an abstract attribute that can be implemented
 and initialized as an attribute inside the derived classes' __init__ method,
