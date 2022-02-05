@@ -21,7 +21,7 @@ a public attribute (inside the __init__ method).
 The new decorator @abstractattribute, actually enables us to do that.
 
 
-The module still provides the same interface of the native abc module, 
+The module provides the same interface of the native abc module, 
 and it didn't edit its internal implementation.
 
 The code is compatible with <a href="https://google.github.io/styleguide/pyguide.html"> <b>Google Python Style Guide </b> </a>
